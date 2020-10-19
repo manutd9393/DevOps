@@ -5,8 +5,8 @@
 - 2 Microservices - Currency Exchange and Currency Conversion
 
 ## Steps
-- Pushing Python App Docker Image to Docker Hub
-- Step 01Building and Pushing Docker Image for Node JavaScript App
+- Building and Pushing Python App Docker Image to Docker Hub
+- Building and Pushing Docker Image for Node JavaScript App
 - Building and Pushing Docker Image for Java Application
 - Running Microservices as Docker Containers
 - Using Docker Link to Connect Microservices
