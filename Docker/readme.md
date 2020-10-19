@@ -5,19 +5,19 @@
 - 2 Microservices - Currency Exchange and Currency Conversion
 
 ## Steps
-1-Pushing Python App Docker Image to Docker Hub
-2-Building and Pushing Docker Image for Node JavaScript App
-3-Building and Pushing Docker Image for Java Application
-4-Running Microservices as Docker Containers
-5-Using Docker Link to Connect Microservices
-6-Using Custom Networking to Connect Microservices
+- Pushing Python App Docker Image to Docker Hub
+- Step 01Building and Pushing Docker Image for Node JavaScript App
+- Building and Pushing Docker Image for Java Application
+- Running Microservices as Docker Containers
+- Using Docker Link to Connect Microservices
+- Using Custom Networking to Connect Microservices
 
 ## Registry and Repositories
 
--https://hub.docker.com/repository/docker/manutd9393
--https://hub.docker.com/repository/docker/manutd9393/hello-world-nodejs
--https://hub.docker.com/repository/docker/manutd9393/hello-world-python
--https://hub.docker.com/repository/docker/manutd9393/hello-world-java
+- https://hub.docker.com/repository/docker/manutd9393
+- https://hub.docker.com/repository/docker/manutd9393/hello-world-nodejs
+- https://hub.docker.com/repository/docker/manutd9393/hello-world-python
+- https://hub.docker.com/repository/docker/manutd9393/hello-world-java
 
 # Commands
 
